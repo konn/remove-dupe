@@ -1,0 +1,7 @@
+resolver: lts-11.9
+packages:
+- .
+
+extra-deps:
+- cryptohash-conduit-0.1.1
+
